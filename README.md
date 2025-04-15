@@ -2,7 +2,7 @@
 
 This is my **personal developer portfolio** showcasing my projects, skills, and experience as a Java Full Stack Developer. The goal of this website is to serve as a central place where recruiters and collaborators can learn more about me and my work.
 
-🌐 **Live Website:** [varun-1729.github.io](https://varun-1729.github.io)
+🌐 **Live Website:** https://72qgnm.csb.app/
 
 ---
 
